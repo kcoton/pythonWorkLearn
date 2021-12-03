@@ -1,0 +1,16 @@
+# Program example of string concatenation:
+
+print("What is your name?")
+name = input()
+print("Hello, " + name)
+print("How old are you?")
+age = input()
+print("What is your favourite food?")
+food = input()
+print("Where are you from?")
+location = input()
+print("Here is a summary of yourself:")
+print("Your name is " + name + ", you are " + age + " years old.")
+print("You like to eat " + food + ", and you are from " + location + ".")
+print("Thanks for sharing, " + name + ", it's really nice to meet you! :)")
+print("Good bye!")
